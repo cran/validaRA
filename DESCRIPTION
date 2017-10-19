@@ -1,7 +1,7 @@
 Package: validaRA
 Type: Package
 Title: Validate Brazilian Administrative Registers
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(
     person('Gustavo','Coelho', role=c('aut','cre'), email='gustavo.coelho@ipea.gov.br'),
     person('Lucas','Mation', role=c('aut'), email='lucas.mation@ipea.gov.br')
@@ -24,8 +24,8 @@ Imports: Rcpp, bit64, stringr, data.table, rmarkdown
 SystemRequirements: C++11
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2017-10-11 19:51:49 UTC; B15599226
+Packaged: 2017-10-19 18:26:42 UTC; gustavo
 Author: Gustavo Coelho [aut, cre],
   Lucas Mation [aut]
 Repository: CRAN
-Date/Publication: 2017-10-12 08:55:28 UTC
+Date/Publication: 2017-10-19 19:21:25 UTC
